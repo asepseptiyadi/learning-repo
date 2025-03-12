@@ -41,3 +41,6 @@ Pada tingkatan ini, tabel yang mengandung elemen-elemen berulang dipecah menjadi
 Setelah proses Normalisasi tersebut kita dapat simpulkan Entity Relation Diagram adalah sebagai berikut
 
 <img src="https://raw.githubusercontent.com/asepseptiyadi/learning-repo/refs/heads/master/analisis-sistem/proyek-absensi-siswa/ERD/ERD%20-%20Absensi%20Siswa.png" />
+
+Sumber: 
+- https://it.telkomuniversity.ac.id/normalisasi-database/
